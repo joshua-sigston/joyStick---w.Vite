@@ -1,6 +1,6 @@
 import { gameDetailsURL} from "../api";
 import { createAsyncThunk, createSlice } from "@reduxjs/toolkit";
-// import { type } from "@testing-library/user-event/dist/type";
+
 import axios from "axios";
 
 const initialState = {
